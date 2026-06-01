@@ -116,9 +116,9 @@ export default function Home() {
         <h2 className="text-4xl font-bold mb-6">Contact</h2>
 
         <div className="space-y-3">
-          <p>Email: your-email@example.com</p>
+          <p>Email: mohamedshamir45@gmail.com</p>
           <p>GitHub: github.com/shamir29</p>
-          <p>LinkedIn: Add your LinkedIn URL</p>
+          <p>LinkedIn: www.linkedin.com/in/mohamed-shamir-a2725b2a5</p>
         </div>
       </section>
 
